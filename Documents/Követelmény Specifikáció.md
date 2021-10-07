@@ -1,7 +1,9 @@
 # Követelmény Specifikáció
 
 ## 1.) Jelenlegi helyzet leírása
-
+A COVID 19 pandémiás időszak miatt a világunk áttért úgymond az online térben. Minden ami csak nem igényelt feltétlen emberi kontaktust azt áthelyeztés, hogy csökkentsék a fertőzés veszélyét.
+Mi pont ezt szeretnénk kihasználni és egy olyan területen ahol elkerülhetetlen a személyes kontaktus, hisz az adott autót át kell venni valamikor,
+próbáljuk csökkenteni ahol csak tudjuk a kontaktust. Éppen ezért készítünk olyan weblapot ami ennek a problémának a kiküszöbölésére lesz alkalmas.
 ## 2.) Vágyálom rendszer leírása
 Egy olyan webalkalmazást fejlesztése a cél, mellyel az adott cég autó kölcsönzési menetét lehet meggyorsítani.
 A COVID miatt megnőtt az online kereskedelem mértéke ezért a cégek az online tér felé indultak el és ezt szeretnénk kihasználni.
