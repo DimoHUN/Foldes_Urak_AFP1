@@ -3,6 +3,12 @@
 ## 1.) Jelenlegi helyzet leírása
 
 ## 2.) Vágyálom rendszer leírása
+Egy olyan webalkalmazást fejlesztése a cél, mellyel az adott cég autó kölcsönzési menetét lehet meggyorsítani.
+A COVID miatt megnőtt az online kereskedelem mértéke ezért a cégek az online tér felé indultak el és ezt szeretnénk kihasználni.
+A cél hogy az adott vásárló a kedvének megfelelően tudjon a lehető leg egyszerűbben autót bérelni.
+Fontos, hogy a weblap felhasználó barát legyen, hogy minden ember tudja azt könnyen kezelni.
+Autó kategória kiválasztása, dátum kiválasztás, extra választás.
+Visszaigazolás a sikeres foglalásról.
 
 ## 3.) A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
 #### A személyes adatok kezelésére vonatkozó elvek
