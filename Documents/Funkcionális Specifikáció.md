@@ -5,7 +5,8 @@
 - Lehetősége van a profiljának információt megnézni a PROFIL fülre kattintva.
 - A felhasználó az adott időintervallumot megadva tud autót bérelni a különböző extrák megadásával.
 - Minden foglalás után a regisztrált email címre küld egy visszaigazoló emailt, hogy a foglalás sikeresen megtörtént.
-## 2.) Jelenlegi helyzet
+## 2.) Jelenlegi helyzetű
+A cél hogy minden korosztály 18-100 között aki már rendelkezik jogosítvánnyal képes legyen online autót kölcsönözni. Fontos szempontnak tartottuk, hogy ne csak a társadalom egyes rétegeit elégítsük ki ezért olyan rendszert terveztünk, illetve töltöttünk fel gépjárművekkel, hogy a szegényebb rétegtől az egészen gazdag rétegig megtalálják az emberek amit szeretnének. Természetesen a tartalom csak szemléltetés, hogy a rendszer képes ezt teljesíteni, mi nem rendelkezünk ilyen autókkal. Fontos, hogy az oldal olyan felhasznűló barát legyen, hogy mindenki könnyen megtalálja amit keres ezért nem raktunk bele sok lehetőséget hirdetés és egyébb nem az oldal működését elősegítő funkcióra.
 ## 3.) Követelménylista
  1. Reszponzív dizájn
  2. Új autók megjelenítése főoldalon
