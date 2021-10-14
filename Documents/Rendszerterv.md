@@ -5,17 +5,17 @@
 ## 2. Projektterv
 
 ### 2.1 Projektszerepkörök, felelősségek
-Designer: Zombori Bálint, Molnár Bálint
-Developer: Linksch Balázs, Galvács István
-Developer: Zombori Bálint, Molnár Bálint
+- Designer: Zombori Bálint, Molnár Bálint
+- Developer: Linksch Balázs, Galvács István
+- Developer: Zombori Bálint, Molnár Bálint
 ### 2.2 Projektmunkások és felelősségeik
-Design elkészítése: Molnár Bálint
-Keretrendszer elkészítése: Galvács István
-Admin felület elkészítése: Linksch Balázs
-Profil menü elkészítése: Zombori Bálint
-Autó kölcsönzés elkészítése: Linksch Balázs
-Email rendszer elkészítése: Molnár Bálint
-Belépés-Regisztráció: Linksch Balázs
+- Design elkészítése: Molnár Bálint
+- Keretrendszer elkészítése: Galvács István
+- Admin felület elkészítése: Linksch Balázs
+- Profil menü elkészítése: Zombori Bálint
+- Autó kölcsönzés elkészítése: Linksch Balázs
+- Email rendszer elkészítése: Molnár Bálint
+- Belépés-Regisztráció: Linksch Balázs
 ### 2.3 Közös feladatok
 - Követelmény specifikáció megírása
 - Funkcionális specifikáció megírása
